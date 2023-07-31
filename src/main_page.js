@@ -61,7 +61,7 @@ export const MainPage = () => {
                     <Carousel>
                         <Carousel.Item >
                             <img
-                                className="d-block w-100 h-70"
+                                className="d-block w-100"
                                 src="https://cdn.discordapp.com/attachments/1125374453220638731/1133366802211160114/inabatron_a_brown_haired_girl_in_a_whimsical_cozy_fairy_tale_ci_0c03d64d-75c6-4210-a6cd-5f9f46608760.png"
                                 alt="First slide"
                             />
@@ -72,7 +72,7 @@ export const MainPage = () => {
                         </Carousel.Item>
                         <Carousel.Item>
                             <img
-                                className="d-block w-100 h-70"
+                                className="d-block w-100"
                                 src="https://cdn.discordapp.com/attachments/1125374453220638731/1133366012536954890/inabatron_a_brown_haired_girl_in_a_whimsical_cozy_fairy_tale_ci_b20ce78f-a972-411e-9d07-a8e14b49f428.png"
                                 alt="Second slide"
                             />
