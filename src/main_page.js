@@ -24,6 +24,8 @@ function Item(props) {
                 textAlign: 'center',
                 fontSize: '0.875rem',
                 fontWeight: '700',
+                margin: 0,
+                
                 ...sx,
             }}
             {...other}

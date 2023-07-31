@@ -1,5 +1,19 @@
+body {
+  margin: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding: 0;
+}
+.css-1oqqzyl-MuiContainer-root {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
 .App {
   text-align: center;
+}
+.navbar {
+  margin: 0;
+  padding: 0;
 }
 
 .App-logo {
